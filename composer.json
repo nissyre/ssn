@@ -1,0 +1,15 @@
+{
+  "name": "nissyre/ssn",
+  "description": "SSN",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nissyre",
+      "email": "nissyre@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "4.1.x-dev"
+  }
+}
