@@ -4,18 +4,19 @@
     <session id="1891764058">
       <usages-collector id="statistics.php.composer.actions">
         <counts>
-          <entry key="addDependencyDialog_from_ProjectViewPopup" value="2" />
+          <entry key="addDependencyDialog_from_MainMenu" value="1" />
+          <entry key="addDependencyDialog_from_ProjectViewPopup" value="3" />
           <entry key="dump-autoload_from_ProjectViewPopup" value="4" />
           <entry key="init_from_MainMenu" value="1" />
-          <entry key="require_from_AddDependencyDialog" value="1" />
-          <entry key="updatePackage_from_AddDependencyDialog" value="1" />
+          <entry key="require_from_AddDependencyDialog" value="3" />
+          <entry key="updatePackage_from_AddDependencyDialog" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.command.options">
         <counts>
           <entry key="dump-autoload_with_--ansi_--no-interaction_--optimize_--verbose" value="4" />
-          <entry key="require_with_--ansi_--no-interaction_--no-progress.default" value="1" />
-          <entry key="updatePackage_with_--ansi_--no-interaction_--no-progress.default" value="1" />
+          <entry key="require_with_--ansi_--no-interaction_--no-progress.default" value="3" />
+          <entry key="updatePackage_with_--ansi_--no-interaction_--no-progress.default" value="3" />
         </counts>
       </usages-collector>
     </session>

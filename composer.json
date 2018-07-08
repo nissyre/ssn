@@ -10,7 +10,9 @@
     }
   ],
   "require": {
-    "symfony/console": "4.1.x-dev"
+    "symfony/console": "4.1.x-dev",
+    "symfony/filesystem": "4.1.x-dev",
+    "symfony/finder": "4.1.x-dev"
   },
   "autoload": {
     "psr-4": {"Nissyre\\": "src/"}
